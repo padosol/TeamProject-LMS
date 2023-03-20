@@ -8,7 +8,6 @@ java, javascript, oracle, mybatis, jsp, spring
 
 student - 학생    professor : 교수    manage : 관리자   common : 공통
 
-
 main  
   ㄴ src    
         ㄴjava/org/hdcd
